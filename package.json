@@ -1,0 +1,23 @@
+{
+  "name": "video-audio-call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beraiarezo/video-audio-call.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beraiarezo/video-audio-call/issues"
+  },
+  "homepage": "https://github.com/beraiarezo/video-audio-call#readme",
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
